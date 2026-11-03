@@ -72,3 +72,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+# Marketplace asset packs
+/Content/JustBStudios/
+/Content/ParagonLtBelica/
+/Content/ParagonWraith/
+/Content/M4A4_Animated/
+
+# Temporary Git analysis
+/git-sizes.txt
+/git-sizes.tx
